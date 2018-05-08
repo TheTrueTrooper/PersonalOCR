@@ -1,0 +1,13 @@
+C:\Users\Angelo's Tower PC\Desktop\PersonalOCR\PersonalOCR\bin\Debug\PersonalOCR.exe.config
+C:\Users\Angelo's Tower PC\Desktop\PersonalOCR\PersonalOCR\bin\Debug\PersonalOCR.exe
+C:\Users\Angelo's Tower PC\Desktop\PersonalOCR\PersonalOCR\bin\Debug\PersonalOCR.pdb
+C:\Users\Angelo's Tower PC\Desktop\PersonalOCR\PersonalOCR\bin\Debug\itextsharp.dll
+C:\Users\Angelo's Tower PC\Desktop\PersonalOCR\PersonalOCR\bin\Debug\itextsharp.xml
+C:\Users\Angelo's Tower PC\Desktop\PersonalOCR\PersonalOCR\obj\Debug\PersonalOCR.csprojResolveAssemblyReference.cache
+C:\Users\Angelo's Tower PC\Desktop\PersonalOCR\PersonalOCR\obj\Debug\PersonalOCR.Form1.resources
+C:\Users\Angelo's Tower PC\Desktop\PersonalOCR\PersonalOCR\obj\Debug\PersonalOCR.Properties.Resources.resources
+C:\Users\Angelo's Tower PC\Desktop\PersonalOCR\PersonalOCR\obj\Debug\PersonalOCR.csproj.GenerateResource.cache
+C:\Users\Angelo's Tower PC\Desktop\PersonalOCR\PersonalOCR\obj\Debug\PersonalOCR.csproj.CoreCompileInputs.cache
+C:\Users\Angelo's Tower PC\Desktop\PersonalOCR\PersonalOCR\obj\Debug\PersonalOCR.csproj.CopyComplete
+C:\Users\Angelo's Tower PC\Desktop\PersonalOCR\PersonalOCR\obj\Debug\PersonalOCR.exe
+C:\Users\Angelo's Tower PC\Desktop\PersonalOCR\PersonalOCR\obj\Debug\PersonalOCR.pdb
